@@ -1,0 +1,39 @@
+# Core Data Processing
+pyarrow
+polars
+pandas
+numpy==1.24.3
+setuptools
+pyspark>=3.5.0
+
+# Data Visualisation
+matplotlib
+seaborn
+plotly
+
+# Machine Learning and Analytics
+scipy==1.11.4
+scikit-learn==1.3.2
+spacy>=3.4.0
+nltk
+spacy-lookups-data
+sentence-transformers>=2.2.0
+torch>=1.13.0
+torchvision>=0.14.0
+torchaudio>=0.13.0
+huggingface-hub
+umap-learn
+hdbscan
+transformers>=4.20.0
+
+# Performance Monitoring
+py4j
+
+# Jupyter Notebook Support
+jupyter
+ipykernel
+
+# Development and Utilities
+typing-extensions
+tqdm
+psutil  # For memory monitoring on Apple Silicon
